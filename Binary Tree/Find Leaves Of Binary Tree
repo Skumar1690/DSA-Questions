@@ -13,7 +13,7 @@ public:
         
         mp[H].push_back(root->val);
 
-        return height;
+        return H;
     }
     vector<vector<int>> findLeaves(TreeNode * root) {       
         mp.clear();
