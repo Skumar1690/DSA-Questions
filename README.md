@@ -20,4 +20,4 @@ To get started with the solutions:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/DSA-Questions.git
+   git clone https://github.com/Skumar1690/DSA-Questions.git
