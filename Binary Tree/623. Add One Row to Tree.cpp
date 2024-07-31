@@ -12,7 +12,7 @@
  * };
  */
 
-// using BFS 
+// using DFS 
 
 
 class Solution {
