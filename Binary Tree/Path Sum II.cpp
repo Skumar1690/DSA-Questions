@@ -1,5 +1,5 @@
 // here intuition of becktracking 1) kya mei leaf pr hu  (left == null & right == null) sum ==  target , it mean good store this ,
-// if i not at leaf then call recursion on left and right and then backtack of initial valve tha store ;
+// if  not at leaf then call recursion on left and right and then backtack of initial valvue tha store ;
 // lets go by code
 
 class Solution {
